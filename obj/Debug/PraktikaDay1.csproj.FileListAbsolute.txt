@@ -1,0 +1,8 @@
+E:\VSC\PraktikaDay1\bin\Debug\PraktikaDay1.exe.config
+E:\VSC\PraktikaDay1\bin\Debug\PraktikaDay1.exe
+E:\VSC\PraktikaDay1\bin\Debug\PraktikaDay1.pdb
+E:\VSC\PraktikaDay1\obj\Debug\PraktikaDay1.csproj.AssemblyReference.cache
+E:\VSC\PraktikaDay1\obj\Debug\PraktikaDay1.csproj.SuggestedBindingRedirects.cache
+E:\VSC\PraktikaDay1\obj\Debug\PraktikaDay1.csproj.CoreCompileInputs.cache
+E:\VSC\PraktikaDay1\obj\Debug\PraktikaDay1.exe
+E:\VSC\PraktikaDay1\obj\Debug\PraktikaDay1.pdb
